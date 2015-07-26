@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "README"
 author: "Serge"
@@ -98,6 +97,3 @@ write.table(meanActivitySubj, "tidyDataSet.txt", row.name=FALSE)
 rm(data, dataFeatures, dataSplit, dataStrip, meanActivitySubj, activityLab, activity, subj, nameSplit)
 ```
 =======
-# test-repo
-This is a test repo
->>>>>>> 101201aa4298b5350079af3654e88931c1395bf8
